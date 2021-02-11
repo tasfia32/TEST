@@ -1,0 +1,7 @@
+.userStyle{
+    grid-template-columns: repeat(3,1fr);
+    display:grid;
+    grid-gap: 1rem;
+
+    
+}
